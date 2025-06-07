@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed32495cdc6ceb84b8c19c89a6521891
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - walkProfile: {fileID: 11400000, guid: 83e732657cb20344aaf0e9771e0b2d6e, type: 2}
+  - airProfile: {fileID: 11400000, guid: 83e732657cb20344aaf0e9771e0b2d6e, type: 2}
+  - defaultGravityProfile: {fileID: 11400000, guid: 7d70cd8224d062f46aabc4294d0d06a1, type: 2}
+  - wallGravityProfile: {fileID: 11400000, guid: 7d70cd8224d062f46aabc4294d0d06a1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
